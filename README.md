@@ -1,7 +1,7 @@
 # RPIPico2LEDRing
 Demo Project with a WS2812B LED Ring of 24 pixels.
 
-![LED Ring](images/GreenDial.jpg "LED Ring")
+![LED Ring](RPIPico2LEDRing/images/GreenDial.JPG "LED Ring")
 
 This project is built to support my YouTube channel [DrJonEA](https://youtube.com/@drjonea) and is an extension of project tutorials provided in full on my Udemy course [Pico Micro Projects in C++](https://www.udemy.com/course/rpi-pico-microprojects-c1/?referralCode=2F48111FD8290C72D4C7).
 
